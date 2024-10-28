@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\Desktop\\claswork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0FFA73-429A-4EE0-ABA6-14ED9463F095}|claswork\\LibraryManagmentSystem.cs.csproj|c:\\users\\i novbe\\desktop\\claswork\\claswork\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0FFA73-429A-4EE0-ABA6-14ED9463F095}|claswork\\LibraryManagmentSystem.cs.csproj|solutionrelative:claswork\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0FFA73-429A-4EE0-ABA6-14ED9463F095}|claswork\\LibraryManagmentSystem.cs.csproj|c:\\users\\i novbe\\desktop\\claswork\\claswork\\librarylocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0FFA73-429A-4EE0-ABA6-14ED9463F095}|claswork\\LibraryManagmentSystem.cs.csproj|solutionrelative:claswork\\librarylocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0FFA73-429A-4EE0-ABA6-14ED9463F095}|claswork\\LibraryManagmentSystem.cs.csproj|c:\\users\\i novbe\\desktop\\claswork\\claswork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0FFA73-429A-4EE0-ABA6-14ED9463F095}|claswork\\LibraryManagmentSystem.cs.csproj|solutionrelative:claswork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0FFA73-429A-4EE0-ABA6-14ED9463F095}|claswork\\LibraryManagmentSystem.cs.csproj|c:\\users\\i novbe\\desktop\\claswork\\claswork\\libraryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0FFA73-429A-4EE0-ABA6-14ED9463F095}|claswork\\LibraryManagmentSystem.cs.csproj|solutionrelative:claswork\\libraryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0FFA73-429A-4EE0-ABA6-14ED9463F095}|claswork\\LibraryManagmentSystem.cs.csproj|c:\\users\\i novbe\\desktop\\claswork\\claswork\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0FFA73-429A-4EE0-ABA6-14ED9463F095}|claswork\\LibraryManagmentSystem.cs.csproj|solutionrelative:claswork\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0FFA73-429A-4EE0-ABA6-14ED9463F095}|claswork\\LibraryManagmentSystem.cs.csproj|c:\\users\\i novbe\\desktop\\claswork\\claswork\\librarycatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0FFA73-429A-4EE0-ABA6-14ED9463F095}|claswork\\LibraryManagmentSystem.cs.csproj|solutionrelative:claswork\\librarycatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0FFA73-429A-4EE0-ABA6-14ED9463F095}|claswork\\LibraryManagmentSystem.cs.csproj|c:\\users\\i novbe\\desktop\\claswork\\claswork\\bookjenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0FFA73-429A-4EE0-ABA6-14ED9463F095}|claswork\\LibraryManagmentSystem.cs.csproj|solutionrelative:claswork\\bookjenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0FFA73-429A-4EE0-ABA6-14ED9463F095}|claswork\\LibraryManagmentSystem.cs.csproj|c:\\users\\i novbe\\desktop\\claswork\\claswork\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0FFA73-429A-4EE0-ABA6-14ED9463F095}|claswork\\LibraryManagmentSystem.cs.csproj|solutionrelative:claswork\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0FFA73-429A-4EE0-ABA6-14ED9463F095}|claswork\\LibraryManagmentSystem.cs.csproj|c:\\users\\i novbe\\desktop\\claswork\\claswork\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0FFA73-429A-4EE0-ABA6-14ED9463F095}|claswork\\LibraryManagmentSystem.cs.csproj|solutionrelative:claswork\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0FFA73-429A-4EE0-ABA6-14ED9463F095}|claswork\\LibraryManagmentSystem.cs.csproj|c:\\users\\i novbe\\desktop\\claswork\\claswork\\librarymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0FFA73-429A-4EE0-ABA6-14ED9463F095}|claswork\\LibraryManagmentSystem.cs.csproj|solutionrelative:claswork\\librarymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0FFA73-429A-4EE0-ABA6-14ED9463F095}|claswork\\LibraryManagmentSystem.cs.csproj|c:\\users\\i novbe\\desktop\\claswork\\claswork\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0FFA73-429A-4EE0-ABA6-14ED9463F095}|claswork\\LibraryManagmentSystem.cs.csproj|solutionrelative:claswork\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0FFA73-429A-4EE0-ABA6-14ED9463F095}|claswork\\LibraryManagmentSystem.cs.csproj|c:\\users\\i novbe\\desktop\\claswork\\claswork\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0FFA73-429A-4EE0-ABA6-14ED9463F095}|claswork\\LibraryManagmentSystem.cs.csproj|solutionrelative:claswork\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookJenre.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\claswork\\claswork\\BookJenre.cs",
+              "RelativeDocumentMoniker": "claswork\\BookJenre.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\claswork\\claswork\\BookJenre.cs",
+              "RelativeToolTip": "claswork\\BookJenre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:30:26.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibraryCatalog.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\claswork\\claswork\\LibraryCatalog.cs",
+              "RelativeDocumentMoniker": "claswork\\LibraryCatalog.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\claswork\\claswork\\LibraryCatalog.cs",
+              "RelativeToolTip": "claswork\\LibraryCatalog.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:21:05.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DVD.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\claswork\\claswork\\DVD.cs",
+              "RelativeDocumentMoniker": "claswork\\DVD.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\claswork\\claswork\\DVD.cs",
+              "RelativeToolTip": "claswork\\DVD.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:46:52.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryHelper.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\claswork\\claswork\\LibraryHelper.cs",
+              "RelativeDocumentMoniker": "claswork\\LibraryHelper.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\claswork\\claswork\\LibraryHelper.cs",
+              "RelativeToolTip": "claswork\\LibraryHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:45:45.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\claswork\\claswork\\Program.cs",
+              "RelativeDocumentMoniker": "claswork\\Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\claswork\\claswork\\Program.cs",
+              "RelativeToolTip": "claswork\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:32:13.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\claswork\\claswork\\Magazine.cs",
+              "RelativeDocumentMoniker": "claswork\\Magazine.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\claswork\\claswork\\Magazine.cs",
+              "RelativeToolTip": "claswork\\Magazine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:30:53.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\claswork\\claswork\\Book.cs",
+              "RelativeDocumentMoniker": "claswork\\Book.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\claswork\\claswork\\Book.cs",
+              "RelativeToolTip": "claswork\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:32:58.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryLocation.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\claswork\\claswork\\LibraryLocation.cs",
+              "RelativeDocumentMoniker": "claswork\\LibraryLocation.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\claswork\\claswork\\LibraryLocation.cs",
+              "RelativeToolTip": "claswork\\LibraryLocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:30:52.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\claswork\\claswork\\Person.cs",
+              "RelativeDocumentMoniker": "claswork\\Person.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\claswork\\claswork\\Person.cs",
+              "RelativeToolTip": "claswork\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:35:02.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryItem.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\claswork\\claswork\\LibraryItem.cs",
+              "RelativeDocumentMoniker": "claswork\\LibraryItem.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\claswork\\claswork\\LibraryItem.cs",
+              "RelativeToolTip": "claswork\\LibraryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:08:04.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LibraryMember.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\claswork\\claswork\\LibraryMember.cs",
+              "RelativeDocumentMoniker": "claswork\\LibraryMember.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\claswork\\claswork\\LibraryMember.cs",
+              "RelativeToolTip": "claswork\\LibraryMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:04:27.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\claswork\\claswork\\Librarian.cs",
+              "RelativeDocumentMoniker": "claswork\\Librarian.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\claswork\\claswork\\Librarian.cs",
+              "RelativeToolTip": "claswork\\Librarian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:47:49.728Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
